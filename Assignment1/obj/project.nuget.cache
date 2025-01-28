@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8jrmrnNeKbo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ibola\\OneDrive\\Skrivbord\\C#\\Assignment1\\Assignment1_part1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibola\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ibola\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ibola\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ibola\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\ibola\OneDrive\Skrivbord\C#\A1\obj\Debug\net6.0\A1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibola\OneDrive\Skrivbord\C#\A1\obj\Debug\net6.0\A1.AssemblyInfoInputs.cache
+C:\Users\ibola\OneDrive\Skrivbord\C#\A1\obj\Debug\net6.0\A1.AssemblyInfo.cs
+C:\Users\ibola\OneDrive\Skrivbord\C#\A1\obj\Debug\net6.0\A1.csproj.CoreCompileInputs.cache
+C:\Users\ibola\OneDrive\Skrivbord\C#\A1\bin\Debug\net6.0\A1.exe
+C:\Users\ibola\OneDrive\Skrivbord\C#\A1\bin\Debug\net6.0\A1.deps.json
+C:\Users\ibola\OneDrive\Skrivbord\C#\A1\bin\Debug\net6.0\A1.runtimeconfig.json
+C:\Users\ibola\OneDrive\Skrivbord\C#\A1\bin\Debug\net6.0\A1.dll
+C:\Users\ibola\OneDrive\Skrivbord\C#\A1\bin\Debug\net6.0\A1.pdb
+C:\Users\ibola\OneDrive\Skrivbord\C#\A1\obj\Debug\net6.0\A1.dll
+C:\Users\ibola\OneDrive\Skrivbord\C#\A1\obj\Debug\net6.0\refint\A1.dll
+C:\Users\ibola\OneDrive\Skrivbord\C#\A1\obj\Debug\net6.0\A1.pdb
+C:\Users\ibola\OneDrive\Skrivbord\C#\A1\obj\Debug\net6.0\A1.genruntimeconfig.cache
+C:\Users\ibola\OneDrive\Skrivbord\C#\A1\obj\Debug\net6.0\ref\A1.dll

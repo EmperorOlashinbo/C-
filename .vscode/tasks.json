@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Run C# Without Project",
+        "type": "shell",
+        "command": "dotnet",
+        "args": ["exec", "$(input:buildOutput)"],
+        "group": "build",
+        "problemMatcher": [],
+        "inputs": [
+          {
+            "type": "command",
+            "id": "buildOutput",
+            "command": "dotnet",
+            "args": ["build", "-o", "./build"]
+          }
+        ]
+      }
+    ]
+  }
+  
